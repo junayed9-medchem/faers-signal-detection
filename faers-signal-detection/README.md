@@ -143,5 +143,5 @@ This project directly reflects the type of analytical work performed within FDA'
 
 ## Author
 
-Md Junayed  
+Md Junayed  Nayeen
 Master of Data Science, University of Pittsburgh  
